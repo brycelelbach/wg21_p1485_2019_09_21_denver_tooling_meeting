@@ -96,7 +96,7 @@ The goal of this meeting is to work on the
 
 ## Schedule ## {#schedule}
 
-The meeting will be held on 2019-09-21.
+The meeting will be held on **the Saturday after CppCon, 2019-09-21**.
 
 <table>
 <tr>
@@ -125,7 +125,7 @@ The meeting will be held on 2019-09-21.
 ## Paper Deadline ## {#paper-deadline}
 
 Papers intended for discussion at this meeting should be submitted to the Tooling
-  Study Group mailing list by *2019-09-09, 7:00AM Pacific Time*.
+  Study Group mailing list by **2019-09-09, 7:00AM Pacific Time**.
 There will be no formal pre- or post-meeting mailing for this meeting.
 
 # Logistics # {#logistics}
@@ -133,7 +133,7 @@ There will be no formal pre- or post-meeting mailing for this meeting.
 ## Registration ## {#registration}
 
 <b>If you plan to attend the meeting, please register here
-  *TODO INSERT LINK*.</b>
+  **TODO INSERT LINK**.</b>
 
 ## Venue and Hotel ## {#venue-and-hotel}
 
@@ -146,8 +146,7 @@ For more information, see <a href="https://cppcon.org/lodging/">CppCon's
 
 We recommend that attendees stay at the Gaylord Rockies; there are no other
   hotels within walking distance.
-<b><a href="https://book.passkey.com/gt/217286963?gtid=94b597056c8118669f84390f2e38a531>
-  A special room rate of $249 USD + 15.25% tax is available for attendees.</a></b>
+<a href="https://book.passkey.com/gt/217286963?gtid=94b597056c8118669f84390f2e38a531"><b>A special room rate of $249 USD + 15.25% tax is available for attendees.</b></a>
 Breakfast and parking are not included; parking is $29 USD a night.
 If you have difficulty booking a room, contact
   <a href="https://cppcon.org/lodging/">Karen Krueger</a>.
@@ -155,21 +154,22 @@ If you have difficulty booking a room, contact
 ## Travel and Transportation ## {#travel-and-transportation}
 
 Attendees travelling by air should plan to fly into the Denver International
-  Airport (*DEN*), which is a large international airport.
+  Airport (**DEN**), which is a large international airport.
 
 The venue is 6.3 miles (10.1 kilometers) from the Denver International Airport.
 There are multiple ways to get from the airport to the venue:
 - Taxi service and ride shares are ~$20 USD one way.
 - The venue runs a free shuttle which picks up from the 61st and Pena stop on
-  the <a href="http://www.rtd-denver.com/airport.shtml">airport's transit
-  system</a>.
+    the <a href="http://www.rtd-denver.com/airport.shtml">airport's transit system</a>.
 
 ## Meals and Refreshments ## {#meals-and-refreshments}
 
 Breakfast is not included in the hotel room rate.
 
-A lunch buffet option is available to attendees for a rate of *TODO INSERT RATE*;
-  you can sign up for lunch while registering for the meeting *TODO INSERT LINK*.
+A lunch buffet option is available to attendees for a rate of
+  **TODO INSERT RATE**;
+  you can sign up for lunch while registering for the meeting
+  **TODO INSERT LINK**.
 
 ## Contact Information ## {#contact-information}
 
