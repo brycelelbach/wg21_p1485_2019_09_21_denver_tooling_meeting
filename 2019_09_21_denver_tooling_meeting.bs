@@ -1,0 +1,181 @@
+<!--
+Copyright (c) 2018-2019 NVIDIA Corporation
+Author: Bryce Adelstein Lelbach <brycelelbach@gmail.com>
+
+Distributed under the Boost Software License v1.0 (boost.org/LICENSE_1_0.txt)
+-->
+<pre class='metadata'>
+Title: 2019-09-21 Denver Tooling Meeting
+Shortname: D1845
+Revision: 0
+Status: D
+Group: WG21
+Audience: SG15
+Editor: Bryce Adelstein Lelbach, NVIDIA, bryce@cppcon.org
+Editor: Jon Kalb, CppCon, jon@cppon.org
+URL: https://wg21.link/P1845R0
+!Source: <a href="https://github.com/brycelelbach/wg21_p1845_2019_09_21_denver_tooling_meeting/blob/master/2019_09_21_denver_tooling_meeting.bs">GitHub</a>
+Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p1845_2019_09_21_denver_tooling_meeting/issues
+Metadata Order: Author, This Version, Source, Issue Tracking, Project, Audience
+Markup Shorthands: markdown yes
+Toggle Diffs: no
+Boilerplate: style-syntax-highlighting off
+Abstract: The ISO C++ Committee's Tooling Study Group will hold a full day meeting to work on the C++ Modules Ecosystem Technical Report on 2019-09-21 in Denver, Colorado, USA, co-located with <a href="https://cppcon.org">CppCon 2019</a>.
+</pre>
+
+<style>
+pre {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.ins, ins, ins *, span.ins, span.ins * {
+  background-color: rgb(200, 250, 200);
+  color: rgb(0, 136, 0);
+  text-decoration: none;
+}
+.del, del, del *, span.del, span.del * {
+  background-color: rgb(250, 200, 200);
+  color: rgb(255, 0, 0);
+  text-decoration: line-through;
+  text-decoration-color: rgb(255, 0, 0);
+}
+math, span.math {
+  font-family: serif;
+  font-style: italic;
+}
+ul {
+  list-style-type: "— ";
+}
+blockquote {
+  counter-reset: paragraph;
+}
+div.numbered, div.newnumbered {
+  margin-left: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+div.numbered:before, div.newnumbered:before {
+  position: absolute;
+  margin-left: -2em;
+  display-style: block;
+}
+div.numbered:before {
+  content: counter(paragraph);
+  counter-increment: paragraph;
+}
+div.newnumbered:before {
+  content: "�";
+}
+div.numbered ul, div.newnumbered ul {
+  counter-reset: list_item;
+}
+div.numbered li, div.newnumbered li {
+  margin-left: 3em;
+}
+div.numbered li:before, div.newnumbered li:before {
+  position: absolute;
+  margin-left: -4.8em;
+  display-style: block;
+}
+div.numbered li:before {
+  content: "(" counter(paragraph) "." counter(list_item) ")";
+  counter-increment: list_item;
+}
+div.newnumbered li:before {
+  content: "(�." counter(list_item) ")";
+  counter-increment: list_item;
+}
+</style>
+
+# Agenda # {#agenda}
+
+## Objectives ## {#objectives}
+
+The goal of this meeting is to work on the
+  <a href="https://wg21.link/P1688">C++ Modules Ecosystem Technical Report</a>.
+
+## Schedule ## {#schedule}
+
+The meeting will be held on 2019-09-21.
+
+<table>
+<tr>
+<td>8:00AM to 10:00AM
+<td>In session
+<tr>
+<td>10:00AM to 10:15AM
+<td>Morning break
+<tr>
+<td>10:15AM to 12:00PM
+<td>In session
+<tr>
+<td>12:00PM to 1:30PM
+<td>Lunch
+<tr>
+<td>1:30PM to 3:30PM
+<td>In session
+<tr>
+<td>3:30PM to 3:45PM
+<td>Afternoon break
+<tr>
+<td>3:45PM to 5:00PM
+<td>In session
+</table>
+
+## Paper Deadline ## {#paper-deadline}
+
+Papers intended for discussion at this meeting should be submitted to the Tooling
+  Study Group mailing list by *2019-09-09, 7:00AM Pacific Time*.
+There will be no formal pre- or post-meeting mailing for this meeting.
+
+# Logistics # {#logistics}
+
+## Registration ## {#registration}
+
+<b>If you plan to attend the meeting, please register here
+  *TODO INSERT LINK*.</b>
+
+## Venue and Hotel ## {#venue-and-hotel}
+
+The meeting will be co-located with <a href="https://cppcon.org">CppCon 2019</a>
+  in Denver, Colorado, USA.
+The venue and hotel is the <a href="https://www.marriott.com/hotels/travel/dengr-gaylord-rockies-resort-and-convention-center/">Gaylord Rockies Resort and Convention Center</a>,
+  6700 North Gaylord Rockies Boulevard, Aurora, 80019, Colorado, USA.
+For more information, see <a href="https://cppcon.org/lodging/">CppCon's
+  lodging page</a>.
+
+We recommend that attendees stay at the Gaylord Rockies; there are no other
+  hotels within walking distance.
+<b><a href="https://book.passkey.com/gt/217286963?gtid=94b597056c8118669f84390f2e38a531>
+  A special room rate of $249 USD + 15.25% tax is available for attendees.</a></b>
+Breakfast and parking are not included; parking is $29 USD a night.
+If you have difficulty booking a room, contact
+  <a href="https://cppcon.org/lodging/">Karen Krueger</a>.
+
+## Travel and Transportation ## {#travel-and-transportation}
+
+Attendees travelling by air should plan to fly into the Denver International
+  Airport (*DEN*), which is a large international airport.
+
+The venue is 6.3 miles (10.1 kilometers) from the Denver International Airport.
+There are multiple ways to get from the airport to the venue:
+- Taxi service and ride shares are ~$20 USD one way.
+- The venue runs a free shuttle which picks up from the 61st and Pena stop on
+  the <a href="http://www.rtd-denver.com/airport.shtml">airport's transit
+  system</a>.
+
+## Meals and Refreshments ## {#meals-and-refreshments}
+
+Breakfast is not included in the hotel room rate.
+
+A lunch buffet option is available to attendees for a rate of *TODO INSERT RATE*;
+  you can sign up for lunch while registering for the meeting *TODO INSERT LINK*.
+
+## Contact Information ## {#contact-information}
+
+For any inquires please contact:
+
+- <a href="https://cppcon.org/lodging/">Karen Krueger</a>.
+- <a href="mailto:bryce@cppcon.org">Bryce Adelstein Lelbach</a>.
+- <a href="mailto:jon@cppcon.org">Jon Kalb</a>.
+
