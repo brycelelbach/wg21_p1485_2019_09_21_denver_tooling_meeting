@@ -6,9 +6,9 @@ Distributed under the Boost Software License v1.0 (boost.org/LICENSE_1_0.txt)
 -->
 <pre class='metadata'>
 Title: 2019-09-21 Denver Tooling Meeting
-Shortname: D1845
+Shortname: P1845
 Revision: 0
-Status: D
+Status: P
 Group: WG21
 Audience: SG15
 Editor: Bryce Adelstein Lelbach, NVIDIA, bryce@cppcon.org
@@ -118,7 +118,7 @@ The meeting will be held on **the Saturday after CppCon, 2019-09-21**.
 <td>3:30PM to 3:45PM
 <td>Afternoon break
 <tr>
-<td>3:45PM to 5:00PM
+<td>3:45PM to 5:30PM
 <td>In session
 </table>
 
@@ -132,8 +132,7 @@ There will be no formal pre- or post-meeting mailing for this meeting.
 
 ## Registration ## {#registration}
 
-<b>If you plan to attend the meeting, please register here
-  **TODO INSERT LINK**.</b>
+<b>If you plan to attend the meeting, please [register here](https://forms.gle/CCy7HFUF1SNXzd5n7).</b>
 
 ## Venue and Hotel ## {#venue-and-hotel}
 
@@ -166,16 +165,14 @@ There are multiple ways to get from the airport to the venue:
 
 Breakfast is not included in the hotel room rate.
 
-A lunch buffet option is available to attendees for a rate of
-  **TODO INSERT RATE**;
-  you can sign up for lunch while registering for the meeting
-  **TODO INSERT LINK**.
+A lunch buffet option is available to attendees.
+You can sign up for lunch while [registering for the meeting](https://forms.gle/CCy7HFUF1SNXzd5n7).
 
 ## Contact Information ## {#contact-information}
 
 For any inquires please contact:
 
-- <a href="https://cppcon.org/lodging/">Karen Krueger</a>.
+- <a href="mailto:lodging@cppcon.org">Karen Krueger</a>.
 - <a href="mailto:bryce@cppcon.org">Bryce Adelstein Lelbach</a>.
 - <a href="mailto:jon@cppcon.org">Jon Kalb</a>.
 
