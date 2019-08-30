@@ -6,14 +6,14 @@ Distributed under the Boost Software License v1.0 (boost.org/LICENSE_1_0.txt)
 -->
 <pre class='metadata'>
 Title: 2019-09-21 Denver Tooling Meeting
-Shortname: P1845
-Revision: 0
-Status: P
+Shortname: D1845
+Revision: 1
+Status: D
 Group: WG21
 Audience: SG15
 Editor: Bryce Adelstein Lelbach, NVIDIA, bryce@cppcon.org
 Editor: Jon Kalb, CppCon, jon@cppon.org
-URL: https://wg21.link/P1845R0
+URL: https://wg21.link/P1845R1
 !Source: <a href="https://github.com/brycelelbach/wg21_p1845_2019_09_21_denver_tooling_meeting/blob/master/2019_09_21_denver_tooling_meeting.bs">GitHub</a>
 Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p1845_2019_09_21_denver_tooling_meeting/issues
 Metadata Order: Author, This Version, Source, Issue Tracking, Project, Audience
@@ -148,7 +148,7 @@ We recommend that attendees stay at the Gaylord Rockies; there are no other
 <a href="https://book.passkey.com/gt/217286963?gtid=94b597056c8118669f84390f2e38a531"><b>A special room rate of $249 USD + 15.25% tax is available for attendees.</b></a>
 Breakfast and parking are not included; parking is $29 USD a night.
 If you have difficulty booking a room, contact
-  <a href="https://cppcon.org/lodging/">Karen Krueger</a>.
+  <a href="mailto:lodging@cppcon.org?subject=From cppcon.org/lodging">Karen Krueger</a>.
 
 ## Travel and Transportation ## {#travel-and-transportation}
 
@@ -165,8 +165,9 @@ There are multiple ways to get from the airport to the venue:
 
 Breakfast is not included in the hotel room rate.
 
-A lunch buffet option is available to attendees.
-You can sign up for lunch while [registering for the meeting](https://forms.gle/CCy7HFUF1SNXzd5n7).
+## Remote Attendance ## {#remote-attendance}
+
+Tooling Study Group regulars are welcome to [participate remotely via Zoom](https://iso.zoom.us/j/891446186).
 
 ## Contact Information ## {#contact-information}
 
