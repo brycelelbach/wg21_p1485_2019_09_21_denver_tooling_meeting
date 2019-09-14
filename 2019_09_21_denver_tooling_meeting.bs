@@ -115,10 +115,10 @@ The meeting will be held on **the Saturday after CppCon, 2019-09-21**.
 <td>1:30PM to 3:30PM
 <td>In session
 <tr>
-<td>3:30PM to 3:45PM
+<td>3:00PM to 3:15PM
 <td>Afternoon break
 <tr>
-<td>3:45PM to 5:30PM
+<td>3:15PM to 5:30PM
 <td>In session
 </table>
 
@@ -142,6 +142,7 @@ The venue and hotel is the <a href="https://www.marriott.com/hotels/travel/dengr
   6700 North Gaylord Rockies Boulevard, Aurora, 80019, Colorado, USA.
 For more information, see <a href="https://cppcon.org/lodging/">CppCon's
   lodging page</a>.
+We will be located in the Summit 3 room.
 
 We recommend that attendees stay at the Gaylord Rockies; there are no other
   hotels within walking distance.
@@ -164,6 +165,8 @@ There are multiple ways to get from the airport to the venue:
 ## Meals and Refreshments ## {#meals-and-refreshments}
 
 Breakfast is not included in the hotel room rate.
+
+Lunch will be provided free of charge.
 
 ## Remote Attendance ## {#remote-attendance}
 
