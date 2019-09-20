@@ -96,7 +96,7 @@ The goal of this meeting is to work on the
 
 ## Schedule ## {#schedule}
 
-The meeting will be held on **the Saturday after CppCon, 2019-09-21**.
+The meeting will be held in **Summit 3 at CppCon on Saturday, 2019-09-21**.
 
 <table>
 <tr>
